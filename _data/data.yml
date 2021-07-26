@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: chti0265@snu.ac.kr
-    github: sharu725
+    github: choiHenry
     telegram: # add your nickname without '@' sign
     gitlab: github.com/choiHenry/
     stack-overflow: 11679242/henry-choi
@@ -111,6 +111,3 @@ skills:
 
       - name: Algorithm & Data Structure
         level: 65%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
