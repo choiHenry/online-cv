@@ -74,7 +74,7 @@ projects:
 
     assignments:
       - title: Topic Analysis
-        link: dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09260922&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
+        link: 'dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09260922&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR'
 
 
       - title: Gold Price
