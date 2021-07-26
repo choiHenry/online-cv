@@ -14,10 +14,8 @@ sidebar:
     # Sidebar links
     email: chti0265@snu.ac.kr
     github: choiHenry
-    telegram: # add your nickname without '@' sign
-    gitlab: github.com/choiHenry/
     stack-overflow: 11679242/henry-choi
-    math-stack-exchange: math.stackexchange.com/users/688621/henry-choi
+    math-stack-exchange: 688621/henry-choi
 
     languages:
       - idiom: English
