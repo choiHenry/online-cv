@@ -15,7 +15,6 @@ sidebar:
     email: chti0265@snu.ac.kr
     github: choiHenry
     stack-overflow: 11679242/henry-choi
-    math-stack-exchange: 688621/henry-choi
 
     languages:
       - idiom: English
@@ -23,16 +22,6 @@ sidebar:
 
       - idiom: Korean
         level: Native
-
-    interests:
-      - item: Basketball
-        link:
-
-      - item: Movie
-        link:
-
-      - item: Astronomical Observation
-        link:
 
 career-profile:
     title: Career Profile
