@@ -59,10 +59,7 @@ experiences:
 projects:
     title: Projects
 
-    assignments:
-      - title: Topic Analysis
-      - tagline: https://dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09260922&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
-        
+    assignments:      
 
       - title: Gold Price
         link: '/price-scraper'
